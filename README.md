@@ -1,4 +1,4 @@
-*The Restaurant Application*
+***The Restaurant Application***
 
 *The restaurant application can be used by both the restaurant customers and the restaurant manager.*
 *Customers can use the application to give their orders.* 
